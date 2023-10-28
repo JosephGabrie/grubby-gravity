@@ -1,22 +1,39 @@
 ---
-title: Duvet Genius
+title: Wiki Project
 publishDate: 2020-03-04 00:00:00
 img: /assets/stock-3.jpg
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
-  We developed a virtual showcase for the softest bedding imaginable.
+  Developed a wikipedia based on video games
 tags:
-  - Design
+  - Backend
   - Dev
-  - Branding
+  - Wikipedia
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+Reflections on My Experience in the Google Tech Exchange Program: Navigating the Wikipedia-Based Project
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+Ever since I embarked on my journey with the Google Tech Exchange program, it was evident that I was stepping into an arena that would push my boundaries and enhance my professional toolkit. And it did, especially when I was assigned a pivotal role in a Wikipedia-based project. Here's a deep dive into my time with the project and the multitude of skills I acquired along the way.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Setting the Stage: The Project Overview
+At its core, our project was akin to the vast and open world of Wikipedia. However, it came with its unique nuances and objectives. My primary responsibility? The backend – an intricate web of functionalities that allows the entire platform to run seamlessly. From ensuring users can post their content effortlessly to facilitating the necessary tools for content editing and deletion, my role demanded both precision and innovation.
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+User Post Management: Creating a streamlined process where users can post their content is crucial. It's not just about adding a piece of information; it's about ensuring the integrity of that information, making sure it's stored securely, and is retrievable when needed.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+Content Deletion: With the vast amount of information being posted, it's inevitable that some need to be removed, either because they're outdated, irrelevant, or inappropriate. Building a deletion mechanism that's both user-friendly and efficient was one of the challenges I embraced.
+
+Content Editing: Content is dynamic. As the world evolves, so does the information it relies upon. Ensuring users have the flexibility to edit their posts without compromising the structural integrity of the database was a skill I refined during the project.
+
+Beyond Technicalities: Leading a Team
+While the technical aspects of the project were demanding, one of the most valuable experiences I gained was leading a team. Leadership isn't just about delegation; it's about motivation, vision-sharing, and ensuring that every team member is aligned with the project's objectives.
+
+Communication: Keeping open channels of communication ensured that all team members were on the same page. Regular check-ins, feedback sessions, and brainstorming meetings were instrumental in our success.
+
+Problem-Solving: Challenges are a given in any project. Leading a team taught me the importance of resilience, adaptability, and the ability to view problems as opportunities for growth.
+
+Team Dynamics: Understanding the strengths and weaknesses of each team member and assigning tasks accordingly was crucial. It ensured not only the efficiency of our operations but also the well-being and job satisfaction of every individual.
+
+In Retrospect
+Looking back, my time in the Google Tech Exchange program, and specifically on this Wikipedia-based project, has been transformative. It wasn't just about coding or managing a database. It was about the amalgamation of technical proficiency with soft skills like leadership, communication, and team management.
+
+As I move forward in my career, the lessons I've learned and the skills I've developed during this project will undoubtedly be foundational stones upon which I'll build further. To anyone reading this and contemplating a similar journey, embrace the challenges. They're not just obstacles; they're opportunities in disguise.

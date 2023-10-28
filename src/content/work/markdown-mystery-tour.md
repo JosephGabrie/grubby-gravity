@@ -1,35 +1,26 @@
 ---
-title: Markdown Mystery Tour
+title: RestAPI
 publishDate: 2020-03-02 00:00:00
 img: /assets/stock-1.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Lead a team as a Scrum Master to develop the backend API for a online bookstore
 tags:
   - Design
   - Dev
   - User Testing
 ---
 
-## Level-two heading
+## Project Retrospective
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+When I embarked on this project, leadership wasn't initially on my radar. I was focused on the tasks at hand, hoping for a collaborative atmosphere where everyone played their part. But as time unraveled, it became evident that there was a void in our group's direction. The initiative was lacking, and the project's progress seemed stagnant. Recognizing this, I decided to step into the uncharted waters of leadership.
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+Leading a team is not just about delegating tasks; it's about ensuring each member is empowered and equipped to perform their best. This was particularly evident when I discovered that several teammates were grappling with technical challenges. What struck me most was that they hadn't deemed it essential to communicate these obstacles. Only upon my inquiry, prompted by their visible lack of progress, did they finally speak up about the challenges they faced.
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+Thanks to their candidness, albeit delayed, I plunged into research mode, seeking solutions for the issues they encountered. After much diligence, we managed to overcome these technical hurdles together.
 
-### Level-three heading
+### The Power of Proactive Communication
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+In reflection, this experience underscored the importance of proactive communication in team settings. As a leader, I had to ensure an environment where teammates felt comfortable raising concerns. But equally, team members needed to recognize their responsibility in voicing challenges early on.
 
-### Level-three heading
-
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
-
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
-
-#### Level-four heading
-
-- We noted this
-- And also this other point
+This project taught me that leadership isn't merely about taking charge; it's about fostering an atmosphere of trust, collaboration, and open communication. And while the journey had its exhausting moments, the lessons learned and the obstacles overcome made it all the more rewarding.
