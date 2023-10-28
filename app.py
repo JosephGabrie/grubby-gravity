@@ -1,6 +1,8 @@
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
+from flask import jsonify
+from flask_cors import CORS
 
 app = Flask(__name__)
 
@@ -11,7 +13,8 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 migrate = Migrate(app, db)
 
-
+#adding CORS (Cross-Origin Resource Sharing) because I am using both astro and flask
+CORS(app)
 
 class User(db.Model):
     id = db.Column(db.Integer, primary_key=True)
@@ -29,6 +32,11 @@ def hello_world():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+@app.route('/api/users')
+def api_users():
+    users = User.query.all()
+    return jsonify([{'username': user.username, 'email': user.email} for user in users])
 
 @app.route('/add_user/<username>/<email>')
 def add_user(username, email):

@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import ContactCTA from '../components/ContactCTA.astro';
+import Hero from '../components/Hero.astro';
+
+const response = await fetch('http://127.0.0.1:5000/api/users');
+const users = await response.json();
+---
+<html>
+<head>
+    <style>
+.user-box {
+    display: inline-block;  /* This makes the div only as wide as its content */
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    white-space: nowrap;  /* This ensures that the username doesn't break into multiple lines */
+}
+
+    </style>
+</head>
+<body>
+    {users.map(user => (
+        <div class="user-box">
+            {user.username}
+        </div>
+    ))}
+</body>
+</html>
